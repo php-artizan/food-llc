@@ -1,0 +1,25 @@
+@media only screen and (max-width: 992px){
+    
+    .navbar{
+        padding: .5rem 1rem .2rem 1rem;
+    }
+    #navbarSupportedContent {
+        width: 100%;
+        transform: scale(1.1); 
+        margin-top: 10px;
+    }
+    #navbarSupportedContent * {
+        color: #000 !important 
+    }
+   
+    .nav-link {
+        display: block;
+        padding: 2px 10px;
+        border-top: 1px solid #ccc;
+        text-align: center; 
+    }
+    .custom_card {
+        margin: 0 30px;
+    }
+
+}
